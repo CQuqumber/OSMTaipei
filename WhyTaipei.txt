@@ -1,0 +1,5 @@
+https://mapzen.com/data/metro-extracts/metro/taipei_taiwan/
+
+# 為什麼選擇台北？
+這是我生長的省份，最靠近我家的都市，我也嘗試過自己圈選地圖，但是數據都太少，要作出分析，只能依靠零星的數據，
+很難得出正確結論，所以才選擇用mapzen，去下載台北ＯＳＭ。
