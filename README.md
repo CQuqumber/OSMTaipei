@@ -1,40 +1,23 @@
-# TV Scripts Generating
-
-
-The project from the Deep Learning Nanodegree in
-[Udacity](https://www.udacity.com/nanodegree).
+# OpenStreetMpa Data Wrangling
 
 
 ## Table of contents
-- Prerequisites
-- Algorithms
-- Reference
-- Copyright and License
+- OSM file
+- ipynb
+- txt
 
 ## Prerequisites
-Install tensorflow development package:
-```bash
- $ pip install --upgrade tensorflow-gpu  # for Python 2.7 and GPU
- $ pip3 install --upgrade tensorflow-gpu # for Python 3.n and GPU
+Install evelopment package:
 ```
-
-## Algorithms
-
-- Neural Network
-    - Neural Network Learning Algorithm
-    - Recurrent Neural Network
-    - Long Short-Term Memory
-- Training Optimizer
-	- tf.train.AdamOptimizer
+ $ pip install json
+ $ pip install pymongo
+```
 
 
 ## Reference
 - Stack Overflow to find out the the functionality of python library.
-- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- An MIT Press book:[Deep Learning](http://www.deeplearningbook.org/)
-- Standford CS231n:[Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
-- Standford CS20SI: [Tensorflow for DL](http://web.stanford.edu/class/cs20si/syllabus.html)
+- MongoDB [示例项目](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd002/SampleDataWranglingProject_en.pdf)
+- Map Zen [下载预先选定的都会区域](https://mapzen.com/data/metro-extracts/)
 
 ## Copyright and License
 
